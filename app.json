@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "EncontroJá",
+    "slug": "encontroja",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain"
+    },
+    "android": {
+      "package": "com.encontroja.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.encontroja.app"
+    }
+  }
+}
